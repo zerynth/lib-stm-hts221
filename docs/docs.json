@@ -1,8 +1,0 @@
-{
-	"version":"1.0.0",
-	"title":"HTS221",
-	"copyright":"Zerynth Team",
-	"files":[
-		["HTS221","hts221.py"]
-	]
-}
